@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pavan Pasidu</h1>
 <h3 align="center">A passionate Data Science & Engineering Undergraduate from Sri Lanka</h3>
 
-- 🌱 I’m currently learning **Data Mining, Deep Neural Network**
+- 🌱 I’m currently learning **Data Mining, Deep Neural Network , Computer Vision**
 
 - 👨‍💻 All of my projects are available at [https://github.com/PavanPasidu](https://github.com/PavanPasidu)
 

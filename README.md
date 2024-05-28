@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/PavanPasidu](https://github.com/PavanPasidu)
 
-- 📫 How to reach me **pavan.20@cse.mrt.ac.lk**
+- 📫 How to reach me **pavan.20@cse.mrt.ac.lk / pavanpasidumh@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
